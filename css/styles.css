@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+ul {
+    color: greenyellow;
+    list-style-type: "- ";
+    font-family:courier, monospace
+}
+
+a:link {
+    color: greenyellow;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+body h1 {
+    color: greenyellow;
+    font-family:courier, monospace
+}
+
+body p {
+    color: greenyellow;
+    font-family:courier, monospace;
+    font-size: small
+    
+}
+
+h2 {
+        color: #2b62f4;
+    font-family:courier, monospace;
+    font-size:xx-large
+}
