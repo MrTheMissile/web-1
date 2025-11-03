@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+    color:greenyellow
+}
+
+.type1 {
+    font-family: "Bitcount Grid Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center
+}
+
+.type2 {
+     font-family: "Sixtyfour", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+    color: blue;
+    font-size: 20px
+}
+
+.type3 {
+      font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "ROND" 0;
+}
+
+.type4 {
+     font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.type5 {
+     font-family: "Jacquarda Bastarda 9", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.type6 {
+     font-family: "Bytesized", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.type7 {
+    font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.type8 {
+    font-family: "Yarndings 20", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    letter-spacing: 10px
+}
+
+.type9 {
+     font-family: "Libre Barcode 39", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    line-height: 1.1;
+    text-align: center
+}
+
+.type10 {
+    font-family: "Bitcount Grid Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+}
+
+.htype {
+    color: greenyellow
+}
