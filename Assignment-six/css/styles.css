@@ -1,0 +1,94 @@
+body {
+    background-color: yellow
+}
+
+.greenbox {
+    background-color: green;
+    width: auto;
+    height: 200px;
+}
+
+.cyanbox{
+    width: 150px;
+    height: 150px;
+    background-color: cyan;
+    margin: 25px
+}
+
+.cyanbox{
+    float: left
+}
+
+.tanbox{
+    width: 150px;
+    height: 150px;
+    background-color: tan;
+    margin: 25px
+}
+
+.tanbox{
+    float: right
+}
+
+.blueishbox {
+    background-color: cadetblue;
+    width: auto;
+    height: 375px;
+    margin: 25px 0
+}
+
+.whitebox{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    margin: 25px
+}
+
+.whitebox{
+    float: left
+}
+
+.blackbox{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    margin: 25px
+}
+
+.blackbox{
+    float: right
+}
+
+.orangebox{
+    width:450px;
+    height: 150px;
+    background-color: orange;
+    margin: 20px auto;
+    clear: left;
+}
+
+.burgbox {
+     background-color: #3b0f0f;
+    width: auto;
+    height: 375px;
+    margin: 25px 0
+}
+
+.purpbox{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px
+}
+
+.purpbox{
+    float:left;
+}
+
+.lorem {
+    color: aliceblue;
+    display: block;
+    padding:25px
+}
